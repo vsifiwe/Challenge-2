@@ -1,0 +1,13 @@
+.App {
+  background-color: #282c34;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 100%;
+  padding: 5%;
+}
+
+.search-bar {
+  padding-bottom: 20px;
+}
